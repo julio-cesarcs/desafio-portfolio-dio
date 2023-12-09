@@ -1,6 +1,6 @@
 {
   "name": "Julio César C Silva",
-  "photo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/img/my-photo.png",
+  "photo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/image/my-photo.png",
   "job": "Developer Junior",
   "location": "Angra dos Reis - RJ",
   "phone": "(24) 98142-6631",
@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/data/imgs/js.png"
       }
     ],
     "softSkills": [
