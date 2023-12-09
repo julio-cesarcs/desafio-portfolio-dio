@@ -1,0 +1,74 @@
+{
+  "name": "Julio César C Silva",
+  "photo": "https://raw.githubusercontent.com/julio-cesarcs/desafio-portfolio-dio/main/assets/img/my-photo.png",
+  "job": "Developer Junior",
+  "location": "Angra dos Reis - RJ",
+  "phone": "(24) 98142-6631",
+  "email": "julio_cezzar@yahoo.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/desafio-portfolio-dio/main/data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex em um curso ministrado pela DIO",
+      "url": "https://github.com/julio-cesarcs/desafio-pokedex-dio",
+      "github": true
+    },
+    {
+      "name": "Criação de um jogo do Yu-Gi-Oh em um curso ministrado pela DIO",
+      "url": "https://github.com/julio-cesarcs/desafio-yugioh",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página Web em um curso ministrado pela Curso em Vídeo",
+      "url": "https://github.com/julio-cesarcs/projeto-cordel-moderno",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar Administrativo / IC Supply Engenharia",
+      "period": "2022 - até o momento",
+      "description": "Implementação de melhorias em rotinas administrativas."
+    },
+    {
+      "name": "Auxiliar Administrativo / Normatel Engenharia",
+      "period": "2017 - 2022",
+      "description": "Implementação de melhorias em rotinas administrativas."
+    },
+    {
+      "name": "Auxiliar Administrativo / IC Supply Engenharia",
+      "period": "2014 - 2017",
+      "description": "Implementação de melhorias em rotinas administrativas."
+    },
+    {
+      "name": "Auxiliar Administrativo / SNC-Lavalin Marte",
+      "period": "2013 - 2014",
+      "description": "Implementação de melhorias em rotinas administrativas."
+    }
+  ]
+}
